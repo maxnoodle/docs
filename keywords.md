@@ -51,9 +51,8 @@
 - **Machine Learning**: Sottocampo dell’Intelligenza Artificiale che si concentra sulla creazione di modelli e algoritmi che permettono ai computer di apprendere dai dati e fare previsioni o prendere decisioni
 
 # Data science
-- **Machine learning**: apprendimento automatico dei dati
-- **Data mining**: estrazione di conoscenza dai dati
-- **Data visualization**: rappresentazione visiva dei dati
+- **Data mining**: Il data mining è un processo di estrazione di conoscenza dai dati utilizzando tecniche statistiche e algoritmi di machine learning per identificare pattern e relazioni nei dati.
+- **Data visualization**: La data visualization è il processo di rappresentazione dei dati in modo visivo. I grafici, i diagrammi e le mappe sono tutti esempi di visualizzazione dei dati.
 
 # Sicurezza
 - **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
