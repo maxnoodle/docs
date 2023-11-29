@@ -51,9 +51,9 @@
 - **Machine Learning**: Sottocampo dell’Intelligenza Artificiale che si concentra sulla creazione di modelli e algoritmi che permettono ai computer di apprendere dai dati e fare previsioni o prendere decisioni
 
 # Data science
-
-- **Data mining**: Il data mining è un processo di estrazione di conoscenza dai dati. I data miner utilizzano tecniche statistiche e algoritmi di machine learning per identificare pattern e relazioni nei dati.
-- **Data visualization**: La data visualization è il processo di rappresentazione dei dati in modo visivo. I grafici, i diagrammi e le mappe sono tutti esempi di visualizzazione dei dati.
+- **Machine learning**: apprendimento automatico dei dati
+- **Data mining**: estrazione di conoscenza dai dati
+- **Data visualization**: rappresentazione visiva dei dati
 
 # Sicurezza
 - **Crittografia**:  Conversione dei dati da un formato leggibile in un formato codificato che può essere letto o elaborato solo dopo che è stato,La crittografia è usata in molte applicazioni come le carte per le transazioni bancarie, le password dei computer e le transazioni di commercio elettronico. 
@@ -62,12 +62,6 @@
 - **Firewall**: Dispositivo di sicurezza che monitora e controlla il traffico di rete.
 - **Penetration Testing**: Attività mirata a testare la sicurezza di un sistema simulando attacchi reali per identificare vulnerabilità.
 - **SQL Injection**: È un tipo di attacco che inietta del codice malevolo all’interno di un database, solitamente sfruttando una vulnerabilità del software.
-
-
-# Data science
-- **Machine learning**: apprendimento automatico dei dati
-- **Data mining**: estrazione di conoscenza dai dati
-- **Data visualization**: rappresentazione visiva dei dati
 
 
 # Performance e Ottimizzazione
